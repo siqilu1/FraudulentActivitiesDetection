@@ -1,1 +1,1 @@
-# FraudulentActivitiesDetection
+# fraudulent-activities-detection
